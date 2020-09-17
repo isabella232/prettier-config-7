@@ -1,5 +1,7 @@
 # `@mirohq/prettier-config`
 
+![](https://img.shields.io/npm/v/@mirohq/prettier-config.svg?style=flat-square)
+
 ## Usage
 
 **Install**:
