@@ -1,0 +1,26 @@
+{
+  "name": "@mirohq/prettier-config",
+  "version": "0.0.1",
+  "description": "Miro Prettier config",
+  "repository": "git@github.com:miroapp/prettier-config.git",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "prettier-config",
+    "prettier",
+    "miro"
+  ],
+  "author": "Miro (https://miro.com/)",
+  "license": "MIT",
+  "scripts": {
+    "release": "np"
+  },
+  "devDependencies": {
+    "np": "6.5.0"
+  }
+}
