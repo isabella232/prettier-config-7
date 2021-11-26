@@ -6,6 +6,8 @@
 
 **Install**:
 
+> Requires `prettier >= 2.4`
+
 ```bash
 npm install --dev @mirohq/prettier-config
 ```
